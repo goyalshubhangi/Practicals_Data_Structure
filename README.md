@@ -1,5 +1,7 @@
 # Practicals_Data_Structure
-Practical Questions 2018
+
+
+COMPUTER SCIENCE LAB (C-V): Data Structures Lab
 
 1. Write a program to search an element from a list. Give user the option to perform Linear or Binary search. Use Template functions.
 2. WAP using templates to sort a list of elements. Give user the option to perform sorting using Insertion sort, Bubble sort or Selection sort.
